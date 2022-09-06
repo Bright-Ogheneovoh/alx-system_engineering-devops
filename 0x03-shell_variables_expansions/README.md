@@ -1,1 +1,1 @@
-a script that prints hello user, where user is the current Linux user
+Add a file to a file
