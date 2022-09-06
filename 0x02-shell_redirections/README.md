@@ -1,1 +1,1 @@
-Display all the lines in the file
+Display all lines of a file /etc/ssh/sshd_config starting with a letter
