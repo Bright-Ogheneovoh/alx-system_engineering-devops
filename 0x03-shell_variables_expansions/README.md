@@ -1,1 +1,1 @@
- a script that prints the result of an addition
+ a script that prints the result of a division
