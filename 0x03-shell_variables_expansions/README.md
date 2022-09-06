@@ -1,1 +1,1 @@
- a script that prints the result of a division
+ a script that displays the result of power arithmetic
