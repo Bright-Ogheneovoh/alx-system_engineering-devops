@@ -1,1 +1,1 @@
-A script that removes all letters of c from C
+ a script that reverse its input
